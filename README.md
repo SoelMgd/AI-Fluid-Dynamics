@@ -7,9 +7,9 @@ Efficient simulation of the Navier-Stokes equations for fluid flow is a longstan
 This notebook aims to present recent and promising methods using convolutional neural networks (CNNs) to achieve fast and realistic simulations.
 
 ## Key Topics Covered
-Classic Projection Method: Understanding the foundational projection method for solving Navier-Stokes equations.
-2013 Approach by Jonathan Tompson et al.: Accelerating Eulerian Fluid Simulation with Convolutional Networks, highlighting significant improvements in solving times.
-2021 Approach by Nils Wandel et al.: Teaching the Incompressible Navier-Stokes Equations to Fast Neural Surrogate Models in 3D, addressing and overcoming the limitations of the earlier method.
+- Classic Projection Method: Understanding the foundational projection method for solving Navier-Stokes equations.
+- 2013 Approach by Jonathan Tompson et al.: Accelerating Eulerian Fluid Simulation with Convolutional Networks, highlighting significant improvements in solving times.
+- 2021 Approach by Nils Wandel et al.: Teaching the Incompressible Navier-Stokes Equations to Fast Neural Surrogate Models in 3D, addressing and overcoming the limitations of the earlier method.
 
 ## References
 Jonathan Tompson, et al. "Accelerating Eulerian Fluid Simulation with Convolutional Networks." 2013.
